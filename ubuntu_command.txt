@@ -1,0 +1,3 @@
+g++ P1.cpp -o program -fopenmp
+./program
+
