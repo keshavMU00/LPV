@@ -1,0 +1,11 @@
+On CMD 
+1.create a folder , then its directory in cmd  cd -----
+2.python -m venv tfvenv
+3. .\tfvenv\scripts\activate
+4.pip install ipykernel
+5.pip install tensorflow
+6.python -m ipykernel install --user --name=tfkernel
+
+
+pip install scikit-learn
+need lot of pip install like pandas after activate the  tfvenv
