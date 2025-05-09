@@ -1,0 +1,2 @@
+1. dowmload msmpi
+2. Environment variable - C:\Program Files\Microsoft MPI\Bin
