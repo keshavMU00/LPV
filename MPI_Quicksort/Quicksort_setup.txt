@@ -1,2 +1,8 @@
 1. dowmload msmpi
 2. Environment variable - C:\Program Files\Microsoft MPI\Bin
+
+
+
+c++ through terminal-----
+1. after mspi install
+2. terminal command : mpicxx -O2 -Wall -std=c++11 -o Quicksort Quicksort.cpp
