@@ -1,0 +1,5 @@
+above
+-std=c++11 -fopenmp
+
+down
+-static-libgcc

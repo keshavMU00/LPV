@@ -9,3 +9,4 @@ On CMD
 
 pip install scikit-learn
 need lot of pip install like pandas after activate the  tfvenv
+pip install opencv-python
